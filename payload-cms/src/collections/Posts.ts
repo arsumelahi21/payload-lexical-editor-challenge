@@ -1,5 +1,5 @@
 import { CollectionConfig } from 'payload'
-import { lexical } from '../../utils/lexical'
+import { lexical } from '../utils/lexical'
 
 export const Posts: CollectionConfig = {
   slug: 'posts',

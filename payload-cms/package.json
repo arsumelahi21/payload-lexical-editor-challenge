@@ -15,6 +15,12 @@
     "start": "cross-env NODE_OPTIONS=--no-deprecation next start"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.7.2",
+    "@fortawesome/free-solid-svg-icons": "^6.7.2",
+    "@fortawesome/react-fontawesome": "^0.2.2",
+    "@lexical/react": "^0.32.1",
+    "@lexical/rich-text": "^0.32.1",
+    "@lexical/selection": "^0.32.1",
     "@payloadcms/db-mongodb": "3.43.0",
     "@payloadcms/next": "3.43.0",
     "@payloadcms/payload-cloud": "3.43.0",
@@ -22,6 +28,7 @@
     "@payloadcms/ui": "3.43.0",
     "cross-env": "^7.0.3",
     "graphql": "^16.8.1",
+    "lexical": "^0.32.1",
     "next": "15.3.0",
     "payload": "3.43.0",
     "react": "19.1.0",

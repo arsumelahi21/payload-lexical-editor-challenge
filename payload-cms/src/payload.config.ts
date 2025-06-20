@@ -9,7 +9,7 @@ import sharp from 'sharp'
 import { Users } from './collections/Users'
 import { Media } from './collections/Media'
 import { Posts } from './collections/Posts'
-import { lexical } from '../utils/lexical'
+import { lexical } from './utils/lexical'
 
 const filename = fileURLToPath(import.meta.url)
 const dirname = path.dirname(filename)
