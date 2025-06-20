@@ -10,7 +10,7 @@ This file outlines how to install and run the Payload CMS project locally.
 
 Before starting, ensure you have the following installed:
 
-- **Node.js**: v18.20.2 or Node 20.9.0+
+- **Node.js**: Node 20.9.0+
 - **pnpm**: v9 or v10+
 - **MongoDB Atlas account** *(free tier is fine)*
 
