@@ -64,3 +64,6 @@ Accessible from the Admin UI
   - Footnote number
   - Serialized rich content
 - `decorate()` returns a valid `<sup>` element with `<a href="#footnote-n">`
+  
+**Loom video demo:**  
+ [Watch Step 6 Demo] https://www.loom.com/share/9d7a7ff00dca40788bb21d3bfdef4a1c
