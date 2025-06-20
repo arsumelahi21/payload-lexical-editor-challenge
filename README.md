@@ -48,7 +48,7 @@ Accessible from the Admin UI
 - Fully ready to activate on upgrade to Payload v3.44+
 
 **Loom video demo:**  
- [Watch Step 5 Demo]
+ [Watch Step 5 Demo] https://www.loom.com/share/39f250cebf734cddb9cc071463d924a2
 
 ---
 
