@@ -14,7 +14,7 @@ import { JSX } from 'react'
     {
       id: string
       number: number
-      content: string // store content as serialized string
+      content: string
     },
     SerializedLexicalNode
   >
@@ -68,7 +68,7 @@ import { JSX } from 'react'
     }
   
     static importDOM(): any {
-      return null // You can add support if needed
+      return null 
     }
   
     static register(editor: LexicalEditor) {
